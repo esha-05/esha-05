@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha Tumanpelli</h1>
-<h3 align="center">Hi 👋 I'm a Full Stack Developer passionate about building scalable backend systems and AI-powered applications.</h3>
+<h3 align="center">I'm a Full Stack Developer passionate about building scalable backend systems and AI-powered applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esha-05&label=Profile%20views&color=0e75b6&style=flat" alt="esha-05" /> </p>
 
