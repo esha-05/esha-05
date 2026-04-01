@@ -62,5 +62,3 @@ I'm a **Full Stack Developer** passionate about building scalable backend system
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
