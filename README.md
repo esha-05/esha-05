@@ -1,5 +1,4 @@
 # Hi there, I'm Esha Tumanpelli 👋
-
 [![Profile Views](https://komarev.com/ghpvc/?username=esha-05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/esha-05)
 
 ---
@@ -54,6 +53,8 @@ I'm a **Full Stack Developer** passionate about building scalable backend system
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B0000?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Tools & Cloud**
 
@@ -61,4 +62,3 @@ I'm a **Full Stack Developer** passionate about building scalable backend system
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
