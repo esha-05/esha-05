@@ -63,11 +63,4 @@ I'm a **Full Stack Developer** passionate about building scalable backend system
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha-05&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
