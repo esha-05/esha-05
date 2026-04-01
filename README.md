@@ -64,18 +64,4 @@ I'm a **Full Stack Developer** passionate about building scalable backend system
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esha-05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esha-05&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha-05&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
