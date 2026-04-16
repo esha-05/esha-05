@@ -8,7 +8,7 @@
 I'm a **Full Stack Developer** passionate about building scalable backend systems and AI-powered applications. I love turning complex problems into clean, efficient solutions.
 
 - 🔭 Currently working with **Python, Django, REST APIs & MySQL**
-- 🌱 Currently learning **Advanced Python & FastAPI**
+- 🌱 Currently learning **Advanced Python, AI & FastAPI**
 - 💡 Interested in backend architecture and AI/ML integration
 - 📫 Reach me at **eshatumanpelli7@gmail.com**
 
